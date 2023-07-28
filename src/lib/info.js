@@ -10,7 +10,7 @@ export const lastName = 'Santoyo'
 export const name = `${firstName} ${lastName}`
 
 // Used for the landing page & footer of posts
-export const avatar = 'https://www.angs.dev/profile.png'
+export const avatar = 'https://avatars.githubusercontent.com/u/26943671?v=4'
 export const bio = `\
 I’m ${firstName}, an aspiring software engineer based in California studying Computer Science. I write random stuff here!
 `
