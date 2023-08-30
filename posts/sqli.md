@@ -17,13 +17,18 @@ When someone has access to querying any information in your database they can ex
 When watching out for SQL injection some of its main forms are **In-band (classic) SQLi**, **Blind SQLI** and **Out of band SQLi**.  
 
 **<u> SQLi</u>**
-├── **In Band**
-│   ├── Error-based
-│   └── Union-based
-├── **Blind**
-│   ├── Boolean based
-│   └── Time based
-└── **Out of band**
+
++ **In Band**  
+
+    -Error-based
+
+    -Union-based
++ **Blind**
+
+ -Boolean based
+ 
+ -Time based  
++ **Out of band**
 
 
 
