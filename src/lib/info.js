@@ -12,7 +12,7 @@ export const name = `${firstName} ${lastName}`
 // Used for the landing page & footer of posts
 export const avatar = 'https://avatars.githubusercontent.com/u/26943671?v=4'
 export const bio = `\
-I’m ${firstName}, an aspiring software/security engineer based in California who studied CS at CSUF.  I write random stuff that I thought was cool to learn about here!
+I’m ${firstName}, an IT infrastructure specialist and aspiring security engineer based in California who studied CS at CSUF. I write about random stuff that I thought was cool to learn about here!
 `
 
 
